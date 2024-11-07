@@ -41,9 +41,10 @@ The bot uses the following endpoints:
 | `/set "token"` | Saves the user’s authentication token and activates notifications.       |
 
 ## 🔧 Setup Instructions
-   - git clone https://github.com/DonsPabloXYZ/GRASS-NOTIF
-   - cd GRASS-NOTIF
-   - python main.py
+   - `git clone https://github.com/DonsPabloXYZ/GRASS-NOTIF`
+   - `cd GRASS-NOTIF`
+   - `pip install -r requirements.txt`
+   - `python main.py`
 
 ## 📞 Support
 For any questions or issues, please contact us on our Telegram channel: @airdroptodayreal

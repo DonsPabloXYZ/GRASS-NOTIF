@@ -41,7 +41,7 @@ The bot uses the following endpoints:
 | `/set "token"` | Saves the user’s authentication token and activates notifications.       |
 
 ## 🔧 Setup Instructions
-   - https://github.com/DonsPabloXYZ/GRASS-NOTIF
+   - git clone https://github.com/DonsPabloXYZ/GRASS-NOTIF
    - cd GRASS-NOTIF
    - python main.py
 

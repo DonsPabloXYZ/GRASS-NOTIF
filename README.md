@@ -30,8 +30,8 @@ Ensure the following are installed and configured before running the bot:
 The bot uses the following endpoints:
    - https://api.getgrass.io/epochEarnings?input=%7B%22isLatestOnly%22:false%7D
    - https://api.getgrass.io/retrieveUser
-Channel Permissions:
-Make sure your bot has permission to message users in your channel.
+   - Channel Permissions:
+   - Make sure your bot has permission to message users in your channel.
 
 ## 📜 Commands
 
@@ -39,3 +39,12 @@ Make sure your bot has permission to message users in your channel.
 |---------------|---------------------------------------------------------------------------|
 | `/start`      | Welcomes the user and provides a tutorial link for token setup.           |
 | `/set "token"` | Saves the user’s authentication token and activates notifications.       |
+
+## 🔧 Setup Instructions
+   - https://github.com/DonsPabloXYZ/GRASS-NOTIF
+   - cd GRASS-NOTIF
+   - python main.py
+
+## 📞 Support
+For any questions or issues, please contact us on our Telegram channel: @airdroptodayreal
+
